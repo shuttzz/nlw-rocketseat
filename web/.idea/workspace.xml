@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="801d3777-dfc8-4f8b-a6b4-fa5e06496c96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../server/src/config/multer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/uploads/0837c85e7fb2-market.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/uploads/29a1b9501ac8-market.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/uploads/74c4e2cf64b4-market.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dropzone/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dropzone/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../server/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/controllers/PointsController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/controllers/PointsController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/database/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/database/database.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CreatePoint/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CreatePoint/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cpUaM8pVhTI4qVbuvWUi7b7bpm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\ambientes-programacao\projetos-nodejs\nlw\web\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ambientes-programacao\projetos-nodejs\nlw\web\src\components\Dropzone" />
+      <recent name="C:\ambientes-programacao\projetos-nodejs\nlw\web\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="801d3777-dfc8-4f8b-a6b4-fa5e06496c96" name="Default Changelist" comment="" />
+      <created>1591225090828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591225090828</updated>
+      <workItem from="1591225093054" duration="1402000" />
+      <workItem from="1591284012612" duration="622000" />
+      <workItem from="1591285703282" duration="574000" />
+      <workItem from="1591286317016" duration="195000" />
+      <workItem from="1591286635891" duration="1000" />
+      <workItem from="1591286696534" duration="30000" />
+      <workItem from="1591411748129" duration="24681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="144" key="#TypeScript" timestamp="1591444628786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="144" key="#TypeScript/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1591444628786" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591444594054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1591444594054" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591568578808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1591568578808" />
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1591569433293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1591569433293" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1591569433293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1591569433293" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1591569433293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1591569433293" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1591569433293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1591569433293" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1591412590384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1591412590384" />
+  </component>
+</project>
